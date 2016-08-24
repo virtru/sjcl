@@ -1,6 +1,6 @@
 {
   "name": "sjcl",
-  "version": "1.0.4",
+  "version": "1.0.4+virtru.2016.08.23",
   "description": "Stanford Javascript Crypto Library",
   "main": "sjcl.js",
   "author": "bitwiseshiftleft",
